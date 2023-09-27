@@ -4,7 +4,7 @@
 ***E-mail***: 2011832@mail.nankai.edu.cn
 
 ## About this program
-This project is my assignments for the course "Machine Learning" during my sophomore year(2022) at Nankai University.
+This project is my assignments for the course "Machine Learning" during my sophomore year at Nankai University. It includes four classic ML algorithms such as Perceptron, KNN, Bayes Classifier and SVM.
 ## Results
 <center class="half">
     <img src="./Perceptron.png">
